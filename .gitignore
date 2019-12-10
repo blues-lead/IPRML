@@ -1,0 +1,5 @@
+.idea/
+__pycache__/
+cifar-10-batches-mat/
+cifar-10-python/
+venv/
