@@ -3,3 +3,8 @@ __pycache__/
 cifar-10-batches-mat/
 cifar-10-python/
 venv/
+*.npy
+*.mat
+*.db
+*.zip
+*.rar

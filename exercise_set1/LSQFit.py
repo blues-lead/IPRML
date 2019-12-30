@@ -76,7 +76,7 @@ class LSQFit:
 
 def main():
     fit = LSQFit(5)
-    #plt.show()
+    plt.show()
     
 
     
